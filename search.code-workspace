@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../QR-Code-generator-master/java-fast"
+		},
+		{
+			"path": "../QR-Code-generator-master/java"
+		},
+		{
+			"path": "../QR-Code-generator-master/python"
+		},
+		{
+			"path": "../QR-Code-generator-master/QR-Code-generator-master"
+		},
+		{
+			"path": "../QR-Code-generator-master/rust"
+		},
+		{
+			"path": "../QR-Code-generator-master/rust-no-heap"
+		},
+		{
+			"path": "../QR-Code-generator-master/typescript-javascript"
+		},
+		{
+			"path": "../QR-Code-generator-master/c"
+		},
+		{
+			"path": "../QR-Code-generator-master/cpp"
+		}
+	]
+}
